@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A chronic sleepwalker who downplays her condition walks off a fifth-floor balcony while dreaming of the beach she never got to visit, her known medical condition meeting a hostel's inadequate safety measures.",
     "long": ""
   },
   "death_type": "Sleepwalking",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "She was already asleep when she took her last step."
 }
